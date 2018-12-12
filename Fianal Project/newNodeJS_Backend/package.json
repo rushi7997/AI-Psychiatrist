@@ -1,0 +1,23 @@
+{
+  "name": "newnodejs-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "child_process": "^1.0.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "dotenv": "^6.1.0",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http": "0.0.0",
+    "http-errors": "~1.6.2",
+    "mongodb": "^3.1.8",
+    "morgan": "~1.9.0",
+    "socket.io": "^2.2.0"
+  }
+}

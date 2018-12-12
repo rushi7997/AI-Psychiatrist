@@ -1,0 +1,23 @@
+{
+  "type": "Object",
+  "properties": {
+    "category": {
+      "type": "String"
+    },
+    "question": {
+      "type": "String"
+    },
+    "pos": {
+      "type": "String"
+    },
+    "neg": {
+      "type": "String"
+    }
+  },
+  "required": [
+    "category",
+    "question",
+    "pos",
+    "neg"
+  ]
+}
